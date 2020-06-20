@@ -1,1 +1,2 @@
-# discord papago bot
+# BOT110V 
+Discord papago bot
